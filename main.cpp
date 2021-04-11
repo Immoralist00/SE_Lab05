@@ -1,4 +1,6 @@
+/* Study prog*/
 #include <iostream>
+
 
 using namespace std;
 
